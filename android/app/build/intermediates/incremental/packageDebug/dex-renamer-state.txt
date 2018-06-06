@@ -1,0 +1,4 @@
+#Wed Jun 06 18:29:29 CDT 2018
+base.0=/Users/odiez3/Documents/REACT_NATIVE/qapp/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/odiez3/Documents/REACT_NATIVE/qapp/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
